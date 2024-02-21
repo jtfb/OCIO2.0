@@ -103,7 +103,7 @@ active_views: [Lookdev Look, Client Look, CG Look, Log, Raw]
 
 inactive_colorspaces: [CIE-XYZ-D65, sRGB - Display, Rec.1886 Rec.709 - Display, Rec.1886 Rec.2020 - Display, sRGB - Display, Rec.1886 Rec.709 - Display, Rec.1886 Rec.2020 - Display, Rec.1886 Rec.2020 - Display, Rec.2100-HLG - Display, Rec.2100-PQ - Display, Rec.2100-PQ - Display, Rec.2100-PQ - Display, ST2084-P3-D65 - Display, ST2084-P3-D65 - Display, ST2084-P3-D65 - Display, P3-D60 - Display, P3-D65 - Display, P3-D65 - Display, P3-D65 - Display, P3-DCI - Display, P3-DCI - Display, ST2084-P3-D65 - Display]
 
-##### START MARZ #############
+##### START STUDIO #############
 looks:
   - !<Look>
     name: client
@@ -140,7 +140,7 @@ looks:
         - !<BuiltinTransform> {style: DISPLAY - CIE-XYZ-D65_to_REC.1886-REC.709}
 
 
-##### END MARZ #############
+##### END STUDIO #############
 
 default_view_transform: Un-tone-mapped
 
