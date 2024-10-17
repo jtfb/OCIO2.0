@@ -26,9 +26,9 @@ git clone https://github.com/jtfb/OCIO2.0.git
 ```
 
 ## Usage
-Run the tool from the command line or through its user interface.
-Specify your desired color spaces and transformations.
-Generate the OCIO configuration for your project.
+- Clone the repository.
+- Place the file where you will set the OCIO in your pipeline
+- Edit accordingly with your desired color spaces and transformations
 
 ## Contributing
 Feel free to submit issues or pull requests to help improve the tool.
