@@ -20,17 +20,15 @@ Color Space Management: Easily switch between and manage different color spaces 
 LUT Management: Supports the use of custom and standardized LUTs.
 Seamless Integration: Works smoothly with popular software like Nuke, Maya, and Blender.
 Installation
-To install the tool, clone the repository and follow the instructions provided.
-
+To install the tool, clone the repository and place the file where you will set the OCIO in your pipeline.
+```
 git clone https://github.com/jtfb/OCIO2.0.git
-cd ocio-2.0-tool
-pip install -r requirements.txt
+```
 
 ## Usage
 Run the tool from the command line or through its user interface.
 Specify your desired color spaces and transformations.
 Generate the OCIO configuration for your project.
-For more details, check the documentation.
 
 ## Contributing
 Feel free to submit issues or pull requests to help improve the tool.
